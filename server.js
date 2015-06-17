@@ -2,7 +2,7 @@ var StaticServer = require('static-server');
 var server = new StaticServer({
   rootPath: '.',             
   name: 'app-http-server',   
-  port: 8000,                        
+  port:  process.env.PORT || 8000,                        
   followSymlink: true 
 });
 
