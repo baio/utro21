@@ -69,6 +69,17 @@ var list = {
                 image: "http://hi-news.ru/wp-content/uploads/2015/06/amsterdam.jpg" }
         },
         {
+            date: "15.06.2015",
+            there: {
+                text: "Разработано управление автомобилем со смартфона",
+                link: "https://www.youtube.com/watch?v=QjJ2wKCMq5w",
+                image: "http://www.conceptcarz.com/images/articleimages/land-rover-remote-control-rr_01-400.jpg" },
+            here: {
+                text: "Не переизбранные депутаты получат по миллиону рублей",
+                link: "http://top.rbc.ru/politics/14/06/2015/557da9989a7947bbc4e7ec49",
+                image: "http://pics.v6.top.rbk.ru/v6_top_pics/resized/550xH/media/img/4/68/754343005028684.jpg" }
+        },
+        {
             date: "11.06.2015",
             here: {
                 text: "Учителя без спросу ремонтировали дороги",

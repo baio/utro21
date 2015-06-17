@@ -1,4 +1,4 @@
-h3.caption {text-align: center}
+h3.caption {text-align: center; min-height: 78px;}
 
 a.item-content {text-decoration: none; color:rgb(51, 51, 51);}
 
