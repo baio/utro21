@@ -1,6 +1,6 @@
 {
   "name": "polden21vek",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "engines": {
     "node": "0.12.x",
@@ -13,7 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "max.putilov@gmail.com",
