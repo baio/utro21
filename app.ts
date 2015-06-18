@@ -72,9 +72,9 @@ var list : IList = {
         link: "http://www.dailymail.co.uk/news/article-3128665/F-die-not-order-Boris-told-irate-cabbie-late-night-street-row-taxi-app-Uber-cycled-home-dinner.html", 
         image : "http://i.dailymail.co.uk/i/pix/2015/06/17/20/29B7445C00000578-0-image-a-122_1434568719557.jpg"},
       here : {
-        text : "Губернатор заказал молебен о стабильности", 
-        link: "http://www.znak.com/urfo/news/2015-06-17/1041402.html", 
-        image : "http://www.znak.com/images/news/201410241156/201506171624/moleben.jpg"}
+        text : "Рамзан Кадыров выступил за многоженство", 
+        link: "http://politsovet.ru/48879-ramzan-kadyrov-vystupil-za-mnogozhenstvo.html", 
+        image : "http://static.newsland.com/news_images/674/big_674309.jpg"
     },        
     {
       date : "17.06.2015",
