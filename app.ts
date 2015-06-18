@@ -72,20 +72,20 @@ var list : IList = {
         link: "http://techcrunch.com/2015/06/17/google-microsoft-mozilla-and-others-team-up-to-launch-webassembly-a-new-binary-format-for-the-web/", 
         image : "https://tctechcrunch2011.files.wordpress.com/2015/06/4466482623_cf7a5c483b_o.jpg?w=738"},
       here : {
-        text : "Рамзан Кадыров выступил за многоженство", 
-        link: "http://politsovet.ru/48879-ramzan-kadyrov-vystupil-za-mnogozhenstvo.html", 
-        image : "http://static.newsland.com/news_images/674/big_674309.jpg"
+        text : "Глава Роскомнадзора предлагает создать национальный мессенджер", 
+        link: "http://www.kommersant.ru/doc/2749309", 
+        image : "http://otvet.imgsmail.ru/download/a3549c8f02fedfc41239cdcb191ea099_i-1118.jpg"},
     },        
     {
       date : "18.06.2015",
-      there : {
-        text : "Мэр Лондона обматерил таксиста", 
-        link: "http://www.dailymail.co.uk/news/article-3128665/F-die-not-order-Boris-told-irate-cabbie-late-night-street-row-taxi-app-Uber-cycled-home-dinner.html", 
-        image : "http://i.dailymail.co.uk/i/pix/2015/06/17/20/29B7445C00000578-0-image-a-122_1434568719557.jpg"},
       here : {
         text : "Рамзан Кадыров выступил за многоженство", 
         link: "http://politsovet.ru/48879-ramzan-kadyrov-vystupil-za-mnogozhenstvo.html", 
-        image : "http://static.newsland.com/news_images/674/big_674309.jpg"
+        image : "http://static.newsland.com/news_images/674/big_674309.jpg"},
+      there : {
+        text : "Вышла финальная версия стандарта Ecma Script 6", 
+        link: "http://www.ecma-international.org/publications/standards/Ecma-262.htm", 
+        image : "http://blog.falafel.com/wp-content/uploads/2015/01/JS6_Logo.png"
     },        
     {
       date : "17.06.2015",
